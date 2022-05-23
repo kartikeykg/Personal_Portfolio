@@ -13,5 +13,5 @@ https://gregarious-starship-63a2e5.netlify.app/ <br />
 ### Description 
 site is made from scratch , based on ReactJS. It is a full functional and responsive portfolio website.<br />
 In this you will observe the use of usestate hook in the Floating NavBar. <br />
-To make a slide in Testimonial component we use swiperJs and we also use EmailJs in our contact component <br />  
+To make a slide in Testimonial component 'swiperjs' is used and and for contact component 'EmailJs' is used. <br />  
 
